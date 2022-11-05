@@ -1,0 +1,18 @@
+COMANDOS:
+l -> Login
+	parâmetros:
+		0: psw
+ex.: l:psw
+
+c -> Comando
+	Valores:
+		SAIR -> Fecha conexão
+		DNS -> endereço a ser resolvido
+	
+r -> Resposta
+	Valores:
+		IP
+		Ack
+		Não encontrado
+		Não autorizado
+
